@@ -1,4 +1,5 @@
-# HTML-CSS-Template-One
+# First template with only HTML and CSS
+
 
 
 
